@@ -9,7 +9,7 @@ Matplotlib
 Seaborn
 
 ## Analysis
-Part 1: Bar Coupons
+### Part 1: Bar Coupons
 We filtered the dataset to only bar coupons and explored the following:
 
 Frequency of bar visits — Drivers who visited bars more than 3 times a month accepted at ~76%, compared to ~37% for those who visited 3 or fewer times — a ~39% gap.
@@ -19,7 +19,7 @@ Combined factors — Grouping by frequency, passenger, marital status, and age s
 
 Hypothesis: Drivers who accept bar coupons tend to be frequent bar-goers over the age of 25 who do not have kids in the car. The strongest predictor of bar coupon acceptance is how often the driver already visits bars.
 
-Part 2: Carry Out & Take Away Coupons
+### Part 2: Carry Out & Take Away Coupons
 Carry out coupons had the highest overall acceptance rate in the dataset at ~74%. We explored the following factors:
 
 Frequency of carry out orders — Frequent vs infrequent carry out customers showed only a ~3% gap in acceptance rates, suggesting frequency is not a strong predictor for this coupon type.
