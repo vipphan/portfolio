@@ -1,5 +1,5 @@
 ## Notebook
-[View Jupyter Notebook]https://github.com/vipphan/portfolio/blob/main/prompt.ipynb
+https://github.com/vipphan/portfolio/blob/main/prompt.ipynb
 
 ## Tools & Libraries used
 Python
